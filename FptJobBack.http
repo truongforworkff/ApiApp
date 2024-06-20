@@ -1,0 +1,6 @@
+@FptJobBack_HostAddress = http://localhost:5011
+
+GET {{FptJobBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
